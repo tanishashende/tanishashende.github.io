@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Summer 2020 DREU Project Site
+title: Summer 2024 DREU Project Site
 ---
 
 * TOC
@@ -16,7 +16,9 @@ My mentor is Dr. Abraham Glasser, a researcher at the Center for Accessibility a
 
 ## About My Project
 
-Project description goes here.
+In general, the projects are about making extended reality, including virtual and augmented reality, more accessible to people who are Deaf and Hard of Hearing (DHH). One project is making workplace training simulations in VR or AR more accessible through haptics, interpreters, and automated captioning. Another is using haptics for sound-awareness and attention direction while wearing the headset.
+
+The program will take us through each step of a research project, such as the literature review and methodology, so by the end of it, we'll have a paper, presentation, and poster that we can submit to conferences.
 
 [My Final Report](files/finalreport.pdf)
 
